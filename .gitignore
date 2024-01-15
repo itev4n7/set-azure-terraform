@@ -1,0 +1,16 @@
+/.idea/
+/tf-dev/terraform.tfstate
+/tf-qa/terraform.tfstate
+/tf-prod/terraform.tfstate
+/tf-dev/.terraform.lock.hcl
+/tf-prod/.terraform.lock.hcl
+/tf-qa/.terraform.lock.hcl
+/tf-dev/.terraform/
+/tf-prod/.terraform/
+/tf-qa/.terraform/
+/tf-dev/errored.tfstate
+/tf-prod/errored.tfstate
+/tf-qa/errored.tfstate
+/tf-dev/terraform.tfstate.backup
+/tf-prod/terraform.tfstate.backup
+/tf-qa/terraform.tfstate.backup
